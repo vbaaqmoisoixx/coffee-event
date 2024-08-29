@@ -10,5 +10,5 @@
     margin-bottom: 4rem;
   }
     .carousel-item {
-            transition: all 1s;
+     transition: all  linerar 1s;
     }
