@@ -11,9 +11,11 @@
       display: flex;
       flex-wrap: wrap;
       margin: 0 auto;
-      
     }
-  
+
+    .txt {
+        font-size: 1rem;
+    }
     
    .card {
     width: 350px;
