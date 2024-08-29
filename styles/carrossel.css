@@ -9,3 +9,6 @@
     width: 95%;
     margin-bottom: 4rem;
   }
+    .carousel-item {
+            transition: all 1s;
+    }
